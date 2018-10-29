@@ -432,6 +432,7 @@ API目前提供以下模块支持：
 =======
 * 需要
     * CRF++ (>=0.54)         可以从 https://taku910.github.io/crfpp/ 下载安装
+    或者pip install crfpy 借即可
     * Tensorflow(1.0)        这个项目的Tensorflow函数会根据最新Release更新，目前支持Tensorflow 1.0版本，对于老版本的Tensorflow(<=0.12.0), 请使用 deepnlp <=0.1.5版本, 更多信息请查看 RELEASE.md
 
 * Pip 安装
